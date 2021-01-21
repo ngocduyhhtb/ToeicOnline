@@ -20,7 +20,7 @@
     <dependencies>
         <dependency>
             <groupId>vn.ngocduy</groupId>
-            <artifactId>toeic-web-logic</artifactId>
+            <artifactId>toeic-core-peristence-data</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
